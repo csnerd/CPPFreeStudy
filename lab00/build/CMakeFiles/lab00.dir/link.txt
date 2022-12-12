@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab00.dir/main.cpp.o CMakeFiles/lab00.dir/lab.cpp.o -o bin/lab00   -L/home/student/.conan/data/gtest/1.10.0/_/_/package/473fac5a451159bef91e2252b31a075ead43201f/lib 

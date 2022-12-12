@@ -1,0 +1,4 @@
+/home/student/Desktop/CPPFreeStudy/lab00/build/CMakeFiles/lab00.dir
+/home/student/Desktop/CPPFreeStudy/lab00/build/CMakeFiles/lab00_test.dir
+/home/student/Desktop/CPPFreeStudy/lab00/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/CPPFreeStudy/lab00/build/CMakeFiles/rebuild_cache.dir

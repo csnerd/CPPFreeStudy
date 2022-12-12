@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab00_test.dir/lab.cpp.o CMakeFiles/lab00_test.dir/lab_test.cpp.o -o bin/lab00_test   -L/home/student/.conan/data/gtest/1.10.0/_/_/package/473fac5a451159bef91e2252b31a075ead43201f/lib  -Wl,-rpath,/home/student/.conan/data/gtest/1.10.0/_/_/package/473fac5a451159bef91e2252b31a075ead43201f/lib -lgtest_main -lgmock_main -lgmock -lgtest -lm -lpthread 
